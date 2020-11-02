@@ -1,0 +1,106 @@
+header{
+    width:100%;
+    height:80px;
+    text-align:center;
+    border-bottom:3px solid lightgray;
+    line-height:80px;
+}
+
+header img{
+    height:60px;
+}
+
+.login{
+    float:right;
+}
+
+main{
+    clear:left;
+}
+
+form{
+    margin:0 auto;
+    border:3px solid lightgray;
+    border-radius:10px;
+    box-shadow:5px 5px 5px lightgray;
+    width:600px;
+    margin-top:30px;
+    margin-bottom:30px;
+    padding:20px;
+}
+
+h2{
+    text-align:center;
+    border-bottom:2px solid lightgreen;
+}
+
+.hissu{
+    display:inline-block;
+    font-size:14px;
+    background-color:#8AC75A;
+    color:white;
+    border-radius:2px;
+    padding-left:8px;
+    padding-right:8px; 
+}
+
+.formbox{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color:#999;
+    background:#fff;
+    margin-top:2px;
+}
+
+textarea{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color:#999;
+    background:#fff;
+}
+
+.name{
+    margin-bottom:20px;
+    
+}
+
+.mail{
+    margin-bottom:20px;
+}
+
+.password{
+    margin-bottom:20px;
+}
+
+.picture{
+    margin-bottom:20px;
+}
+
+.comments{
+    margin-bottom:20px;
+}
+
+.toroku{
+    text-align:center;
+}
+
+.submit_button{
+    background-color:#8AC75A;
+    width:200px;
+    height:40px;
+    font-size:16px;
+    color:white;
+    border-color:#8AC75A;
+    border-radius:5px
+}
+
+footer{
+    width:100%;
+    height:40px;
+    line-height:40px;
+    text-align:center;
+    border-top:3px solid lightgray;
+    margin-top:40px;
+    color:lightgray;
+    font-size:18px;
+}
